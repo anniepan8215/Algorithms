@@ -1,2 +1,2 @@
 # Algorithms
-Leetcode
+Leetcode with Python
